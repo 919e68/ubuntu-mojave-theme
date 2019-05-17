@@ -1,15 +1,9 @@
 ### setup
 
-create this folders
+create this folders <br/>
+`/home/<user>/.themes` <br/>
+`/home/<user>/.icons` <br/>
 
-`/home/<user>/.themes`
-
-`/home/<user>/.icons`
-
-
-
-move `Mac-Mojave-3.32` to `.themes` folder
-
-move `Mac-Icon` to `.icons` folder
-
-move `Capitane-Cursors` to `.icons` folder
+move `Mac-Mojave-3.32` to `.themes` folder <br/>
+move `Mac-Icon` to `.icons` folder <br/>
+move `Capitane-Cursors` to `.icons` folder <br/>
