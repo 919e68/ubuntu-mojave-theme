@@ -1,5 +1,10 @@
 ### setup
 
+install gnome tweak tool <br/>
+```
+sudo apt install gnome-tweak-tool
+```
+
 create this folders <br/>
 `/home/<user>/.themes` <br/>
 `/home/<user>/.icons` <br/>
